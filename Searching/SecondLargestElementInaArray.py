@@ -1,10 +1,7 @@
 
-
-
 # Second Largest Element in an Array
 
 arr = [1,2,3,4,5,6,7]
-
 us_arr = [112,2345,54756,568758,453,345]
 
 
