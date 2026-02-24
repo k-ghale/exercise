@@ -11,6 +11,7 @@ def search1( arr ):
     arr.sort()
     return arr[len(arr) - 2]
 
+# implementation
 print(search1(arr))
 print(search1(us_arr))
 
