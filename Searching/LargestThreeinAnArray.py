@@ -1,8 +1,7 @@
 # largest three in an array
-
 arr = [ 43, 3 , 31 , 12 , 14 , 243 , 45 ]
 
-def LargestThree(arr):
+def (arr):
     n = len(arr) - 1
     largest_three = []
     arr.sort()  
