@@ -17,5 +17,4 @@ def binary_search(target, arr):
     return False
 
 arr = [12,32,1,243,4]
-
 print(binary_search(243, arr))
