@@ -1,5 +1,4 @@
 
-
 def bubble_sort(nums):
     swapping = True
     end = len(nums)
