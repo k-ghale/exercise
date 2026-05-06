@@ -9,7 +9,6 @@ def count_names(list_of_lists, target_name):
     return count
 
 # test
-
 names = [['Amy', 'Bob', 'Candy'], ['Diane', 'George', 'Eva', 'Frank'], ['Diane', 'George'], ['George', 'name', 'George']]
 
 print(count_names(names, "Diane"))
