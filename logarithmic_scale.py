@@ -5,7 +5,6 @@ def log_scale(data, base):
         result.append(math.log(data[i], base))
     return result
 
-
 # implementation 1
 
 data = [1, 10, 100, 1000]
