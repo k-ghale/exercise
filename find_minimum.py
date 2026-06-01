@@ -1,5 +1,5 @@
 
-import math
+import mathpng
 
 def find_minimum(nums):
     minimum = float("inf")
